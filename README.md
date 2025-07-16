@@ -14,7 +14,6 @@ The report outlines key components and control mechanisms used in the **220 kV s
 
 ## 📁 Files Included
 [Industrial Report NTPC Faridabad (Tejanshu Dabariya).pdf](https://github.com/user-attachments/files/21249695/Industrial.Report.NTPC.Faridabad.Tejanshu.Dabariya.pdf) — Final internship/project report  
-- `Project_Description.md` — Summary of key objectives and findings  
 [ELECTRICAL SINGLE LINE DIAGRAM EMD DRWG.PDF.pdf](https://github.com/user-attachments/files/21249647/ELECTRICAL.SINGLE.LINE.DIAGRAM.EMD.DRWG.PDF.pdf)
 
 
