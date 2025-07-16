@@ -13,10 +13,10 @@ The report outlines key components and control mechanisms used in the **220 kV s
 - Substation layout and energy flow analysis
 
 ## 📁 Files Included
+[Industrial Report NTPC Faridabad (Tejanshu Dabariya).pdf](https://github.com/user-attachments/files/21249695/Industrial.Report.NTPC.Faridabad.Tejanshu.Dabariya.pdf) — Final internship/project report  
+- `Project_Description.md` — Summary of key objectives and findings  
+[ELECTRICAL SINGLE LINE DIAGRAM EMD DRWG.PDF.pdf](https://github.com/user-attachments/files/21249647/ELECTRICAL.SINGLE.LINE.DIAGRAM.EMD.DRWG.PDF.pdf)
 
-- `NTPC_Report.pdf` — Final internship/project report  
-- `Project_Description.md` — (Optional) Summary of key objectives and findings  
-- Additional diagrams or related files (if applicable)
 
 ## 🏢 Plant Background
 
